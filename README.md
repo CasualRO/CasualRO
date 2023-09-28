@@ -2,27 +2,26 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasualRO&theme=great-gatsby" alt="CasualRO's Top Langs" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casual-Ragnarok&theme=great-gatsby" alt="CasualRO's Top Langs" />
 </a>
 <a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=CasualRO&count_private=true&show_icons=true&theme=nightowl" alt="CasualRO's github stats" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=Casual-Ragnarok&count_private=true&show_icons=true&theme=nightowl" alt="CasualRO's github stats" />
 </a>
 
 <a href="https://store.ragnarok.buzz" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-store&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-server-docker" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=casual-ro-server-docker&theme=nord" />
+<a href="https://npc.ragnarok.buzz" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-npcs&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-client-patch" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=casual-ro-client-patch&theme=nord" />
+<a href="https://docs.ragnarok.buzz" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-docs&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-AI-Bot" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=casual-ro-AI-Bot&theme=nord" />
-</a>
+<a href="https://github.com/Casual-Ragnarok/ro-single-server" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-single-server&theme=nord" />
 
 <!--END_SECTION:github-readme-stats-->
 
