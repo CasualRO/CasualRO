@@ -46,7 +46,7 @@
 
 
 
-### 📝  Recent articles
+### 📝  Recent rAthena Scripts
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
