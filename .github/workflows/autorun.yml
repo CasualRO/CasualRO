@@ -16,9 +16,8 @@ jobs:
     # 当仓库隶属组织时，赋予流水线“写权限”以便提交变更
     permissions:
       contents: write
-      
-    steps:
 
+    steps:
     - name: Check out repo
       uses: actions/checkout@v2
 
