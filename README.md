@@ -10,46 +10,22 @@
 
 
 <a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=casual-ro-website&theme=nord" />
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=ro-store&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-server-docker" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=casual-ro-server-docker&theme=nord" />
+<a href="https://npc.ragnarok.buzz" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=ro-npcs&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-client-patch" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=casual-ro-client-patch&theme=nord" />
+<a href="https://docs.ragnarok.buzz" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=ro-docs&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/casual-ro-AI-Bot" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=casual-ro-AI-Bot&theme=nord" />
+<a href="https://github.com/Casual-Ragnarok/ro-single-server" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasualRO&repo=ro-single-server&theme=nord" />
 </a>
 
 <!--END_SECTION:github-readme-stats-->
-
-
-
-### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
-<!--BGN_SECTION:introduction-->
-- 🏰 FIXME.
-- 🐾 FIXME.
-- ✨ FIXME.
-- 🐱 FIXME.
-- 🎹 FIXME.
-- 💬 Ask me about anything [here](https://github.com/CasualRO/CasualRO/issues) .
-<!--BGN_SECTION:introduction-->
-
-
-
-### ⏰  This week I spent my free time on
-<!-- BGN_SECTION:weektime -->
-```text
-Programming    00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    17.00%
-Writing        00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
-Playing        34 hrs    ooooooooooooooooooxx    83.00%
-```
-<!-- END_SECTION:weektime -->
 
 
 
