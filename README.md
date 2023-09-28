@@ -45,9 +45,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
-Learning       40 hrs    oooooooooooooooooooo    100.00%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    17.00%
 Writing        00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
-Playing        00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
+Playing        34 hrs    ooooooooooooooooooxx    83.00%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,6 +58,15 @@ Playing        00 hrs    xxxxxxxxxxxxxxxxxxxx    00.00%
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
 | [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 11 | 2023-09-27 01:13:01 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 20 | 2023-09-27 01:12:07  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 409 | 2023-09-25 14:05:21  |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 415 | 2023-09-24 17:46:56  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-09-24 17:46:09  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 119 | 2023-09-18 16:16:54  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 14 | 2023-08-06 13:22:24  |
+| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 385 | 2023-06-22 02:36:14  |
+| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 28 | 2023-04-15 13:33:08  |
+| [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 <!-- END_SECTION:activity -->
 
 
