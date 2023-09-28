@@ -16,12 +16,13 @@
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-npcs&theme=nord" />
 </a>
 
+<a href="https://github.com/Casual-Ragnarok/ro-single-server" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-single-server&theme=nord" />
+</a>
+
 <a href="https://docs.ragnarok.buzz" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-docs&theme=nord" />
 </a>
-
-<a href="https://github.com/Casual-Ragnarok/ro-single-server" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-single-server&theme=nord" />
 
 <!--END_SECTION:github-readme-stats-->
 
