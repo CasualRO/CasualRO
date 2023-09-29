@@ -65,8 +65,11 @@
 
 ### ❤️ Donate
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://casual-ragnarok.github.io/payment/)
+<iframe id='kofiframe' src='https://ko-fi.com/casualragnarok/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='casualragnarok'></iframe>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7N2Z9C)
+
+[![QR-Code](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7N2Z9C)
 
 
 <a align="right" href="https://github.com/CasualRO/CasualRO/blob/master/How_this_works.md">How this works</a>
