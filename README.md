@@ -12,12 +12,12 @@
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-store&theme=nord" />
 </a>
 
-<a href="https://npc.ragnarok.buzz" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-npcs&theme=nord" />
+<a href="https://github.com/Casual-Ragnarok/openkore-docker" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=openkore-docker&theme=nord" />
 </a>
 
-<a href="https://github.com/Casual-Ragnarok/ro-single-server" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-single-server&theme=nord" />
+<a href="https://npc.ragnarok.buzz" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Casual-Ragnarok&repo=ro-npcs&theme=nord" />
 </a>
 
 <a href="https://docs.ragnarok.buzz" target="_blank">
