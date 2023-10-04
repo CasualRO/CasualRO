@@ -32,15 +32,15 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 13 | 2023-10-03 11:16:00 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 42 | 2023-10-03 09:44:15  |
+| [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 14 | 2023-10-04 04:01:12 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 43 | 2023-10-04 01:55:48  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 414 | 2023-10-03 08:44:18  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2049 | 2023-10-03 08:40:58  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 20 | 2023-10-01 06:25:58  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 1 | 2023-09-29 13:39:13  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 417 | 2023-09-28 15:58:34  |
-| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
-| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 31 | 2023-09-28 15:58:19  |
+| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说-单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
+| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境 RO 传说-单机客户端（登陆补丁） | 31 | 2023-09-28 15:58:19  |
 | [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 <!-- END_SECTION:activity -->
 
