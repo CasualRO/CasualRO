@@ -39,8 +39,8 @@
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 20 | 2023-10-01 06:25:58  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 1 | 2023-09-29 13:39:13  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 417 | 2023-09-28 15:58:34  |
-| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说-单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
-| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境 RO 传说-单机客户端（登陆补丁） | 31 | 2023-09-28 15:58:19  |
+| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
+| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境 RO 传说 - 单机客户端（登陆补丁） | 31 | 2023-09-28 15:58:19  |
 | [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 <!-- END_SECTION:activity -->
 
