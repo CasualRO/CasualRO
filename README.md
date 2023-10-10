@@ -32,8 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 23 | 2023-10-06 10:17:29 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 14 | 2023-10-04 04:01:12  |
+| [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 15 | 2023-10-09 05:25:15 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 23 | 2023-10-06 10:17:29  |
 | [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 43 | 2023-10-04 01:55:48  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 414 | 2023-10-03 08:44:18  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2049 | 2023-10-03 08:40:58  |
