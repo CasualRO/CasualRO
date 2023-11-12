@@ -63,11 +63,16 @@
 <!-- END_SECTION:article -->
 
 
+### ➡️ WeChat
+
+<img width="120" src="/imgs/CRO-CC.jpg">
+
+
 ### ❤️ Donate
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7N2Z9C)
 
-[![QR-Code](./imgs/qrcode.png)](https://casual-ragnarok.github.io/payment/)
+<!-- [![QR-Code](./imgs/qrcode.png)](https://casual-ragnarok.github.io/payment/) -->
 
 
 <a align="right" href="https://github.com/CasualRO/CasualRO/blob/master/How_this_works.md">How this works</a>
