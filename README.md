@@ -32,7 +32,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 57 | 2023-12-25 01:06:47 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 58 | 2023-12-25 18:17:12 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 442 | 2023-12-24 15:22:27  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 430 | 2023-12-19 17:35:57  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2049 | 2023-12-19 17:34:01  |
