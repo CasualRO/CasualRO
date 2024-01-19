@@ -32,12 +32,12 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-18 01:18:57 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 511 | 2024-01-18 18:01:34 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-18 18:01:06  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 95 | 2024-01-17 17:02:45  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-14 10:25:48  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 8 | 2024-01-14 09:13:21  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 441 | 2024-01-14 09:13:19  |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 509 | 2024-01-13 18:39:12  |
 | [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 48 | 2023-11-12 08:51:42  |
 | [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 24 | 2023-10-23 15:13:35  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
