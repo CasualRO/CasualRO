@@ -32,16 +32,16 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 100 | 2024-01-25 17:49:14 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 523 | 2024-01-27 17:44:32  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-27 17:44:12  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 101 | 2024-01-27 15:48:09  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-25 16:45:30  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-24 05:25:59  |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 520 | 2024-01-23 17:16:06  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 8 | 2024-01-14 09:13:21  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 441 | 2024-01-14 09:13:19  |
 | [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 48 | 2023-11-12 08:51:42  |
 | [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 24 | 2023-10-23 15:13:35  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
-| [ro-single-client](https://github.com/Casual-Ragnarok/ro-single-client) | 仙境 RO 传说 - 单机客户端（登陆补丁） | 31 | 2023-09-28 15:58:19  |
 <!-- END_SECTION:activity -->
 
 
