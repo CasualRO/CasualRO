@@ -32,7 +32,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-28 16:29:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-01-29 16:33:48 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 525 | 2024-01-28 16:21:25  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-28 14:22:06  |
 | [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45  |
