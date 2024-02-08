@@ -32,13 +32,13 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-06 18:07:58 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 457 | 2024-02-07 18:06:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 12 | 2024-02-07 17:09:32  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-06 18:07:58  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 534 | 2024-02-05 16:58:14  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-28 14:22:06  |
 | [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 101 | 2024-01-27 15:48:09  |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 8 | 2024-01-14 09:13:21  |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 441 | 2024-01-14 09:13:19  |
 | [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 48 | 2023-11-12 08:51:42  |
 | [casual-ro-AI-Bot](https://github.com/Casual-Ragnarok/casual-ro-AI-Bot) | 仙境 RO 传说 - AI 机器人（强化学习模型） | 24 | 2023-10-23 15:13:35  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 388 | 2023-09-28 15:58:32  |
@@ -50,7 +50,9 @@
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「随缘仙境」SDE 2024 修订版](https://store.ragnarok.buzz/game/ro/tools/casualro-sde/) | 2024-01-14 06:25:46 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境新特性」2023 符文系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-rune-system-ui/) | 2024-02-07 16:40:23 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境新特性」2023 表情系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-emote-system-ui/) | 2024-02-07 15:06:46  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「随缘仙境」SDE 2024 修订版](https://store.ragnarok.buzz/game/ro/tools/casualro-sde/) | 2024-01-14 06:25:46  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」RO 特效演示](https://store.ragnarok.buzz/game/ro/npc/1106-showeffects/readme/) | 2023-12-17 13:23:03  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」BOSS 情报面板](https://store.ragnarok.buzz/game/ro/npc/1031-bossinfo/readme/) | 2023-09-18 15:20:41  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」任意 BOSS 死亡公告](https://store.ragnarok.buzz/game/ro/npc/1013-bossannounce/readme/) | 2023-09-17 14:06:21  |
@@ -58,8 +60,6 @@
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」蘑菇寻宝活动](https://store.ragnarok.buzz/game/ro/npc/1008-mushroom/readme/) | 2023-09-06 01:00:00  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」福利鸡抽奖](https://store.ragnarok.buzz/game/ro/npc/1009-cluckers/readme/) | 2023-09-05 15:13:00  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」超级飞姬-传送专员](https://store.ragnarok.buzz/game/ro/npc/1046-warpagent/readme/) | 2023-09-03 05:07:05  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」GM 空间传送](https://store.ragnarok.buzz/game/ro/npc/1006-warpgmroom/readme/) | 2023-09-03 01:38:20  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」职业工会联盟](https://store.ragnarok.buzz/game/ro/npc/1043-warpjob/readme/) | 2023-09-02 16:58:29  |
 <!-- END_SECTION:article -->
 
 
