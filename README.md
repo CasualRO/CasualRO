@@ -32,9 +32,9 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 457 | 2024-02-07 18:06:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 12 | 2024-02-07 17:09:32  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-06 18:07:58  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 13 | 2024-02-08 05:56:18 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 459 | 2024-02-08 05:56:16  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-08 05:16:25  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 534 | 2024-02-05 16:58:14  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-28 14:22:06  |
 | [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45  |
@@ -50,8 +50,8 @@
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境新特性」2023 符文系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-rune-system-ui/) | 2024-02-07 16:40:23 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境新特性」2023 表情系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-emote-system-ui/) | 2024-02-07 15:06:46  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 符文石碑界面](https://store.ragnarok.buzz/game/ro/feature/2023-rune-system-ui/) | 2024-02-07 16:40:23 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 表情系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-emote-system-ui/) | 2024-02-07 15:06:46  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「随缘仙境」SDE 2024 修订版](https://store.ragnarok.buzz/game/ro/tools/casualro-sde/) | 2024-01-14 06:25:46  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」RO 特效演示](https://store.ragnarok.buzz/game/ro/npc/1106-showeffects/readme/) | 2023-12-17 13:23:03  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」BOSS 情报面板](https://store.ragnarok.buzz/game/ro/npc/1031-bossinfo/readme/) | 2023-09-18 15:20:41  |
