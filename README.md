@@ -32,9 +32,9 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 13 | 2024-02-08 05:56:18 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-09 05:02:07 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 13 | 2024-02-08 05:56:18  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 459 | 2024-02-08 05:56:16  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-02-08 05:16:25  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 534 | 2024-02-05 16:58:14  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | Ragnarok SDE（Server Database Editor）随缘仙境修订版 | 16 | 2024-01-28 14:22:06  |
 | [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45  |
