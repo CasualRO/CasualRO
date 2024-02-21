@@ -32,8 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-02-19 17:39:32 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 550 | 2024-02-19 16:26:52  |
+| [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-02-20 17:11:32 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 557 | 2024-02-20 17:06:17  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 14 | 2024-02-18 17:46:36  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 463 | 2024-02-18 17:46:34  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 103 | 2024-02-17 12:54:38  |
