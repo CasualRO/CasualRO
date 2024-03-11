@@ -32,11 +32,11 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-03-09 17:51:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 589 | 2024-03-09 17:50:06  |
-| [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 62 | 2024-03-09 17:47:19  |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 17 | 2024-03-03 16:34:43  |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 470 | 2024-03-03 16:34:42  |
+| [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 64 | 2024-03-10 17:12:16 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 594 | 2024-03-10 16:52:49  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 19 | 2024-03-10 16:30:53  |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 477 | 2024-03-10 16:30:52  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-03-10 13:54:49  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 107 | 2024-03-03 13:34:14  |
 | [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-02-23 05:06:18  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | 随缘仙境修订版. Ragnarok SDE（Server Database Editor） | 16 | 2024-01-28 14:22:06  |
@@ -50,7 +50,8 @@
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 服务」承接 GRF 解密](https://store.ragnarok.buzz/game/ro/svc/decrypt-grf/) | 2024-02-18 17:02:33 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 图档」特色动态翅膀](https://store.ragnarok.buzz/game/ro/res/ro-dynamic-wings/) | 2024-03-10 14:30:42 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 服务」承接 GRF 解密](https://store.ragnarok.buzz/game/ro/svc/decrypt-grf/) | 2024-02-18 17:02:33  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 符文石碑界面](https://store.ragnarok.buzz/game/ro/feature/2023-rune-system-ui/) | 2024-02-07 16:40:23  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 表情系统界面](https://store.ragnarok.buzz/game/ro/feature/2023-emote-system-ui/) | 2024-02-07 15:06:46  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「随缘仙境」SDE 2024 修订版](https://store.ragnarok.buzz/game/ro/tools/casualro-sde/) | 2024-01-14 06:25:46  |
@@ -59,7 +60,6 @@
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」任意 BOSS 死亡公告](https://store.ragnarok.buzz/game/ro/npc/1013-bossannounce/readme/) | 2023-09-17 14:06:21  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」BOSS 击杀广播](https://store.ragnarok.buzz/game/ro/npc/1011-bossbroadcast/readme/) | 2023-09-17 14:04:35  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」蘑菇寻宝活动](https://store.ragnarok.buzz/game/ro/npc/1008-mushroom/readme/) | 2023-09-06 01:00:00  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」福利鸡抽奖](https://store.ragnarok.buzz/game/ro/npc/1009-cluckers/readme/) | 2023-09-05 15:13:00  |
 <!-- END_SECTION:article -->
 
 
