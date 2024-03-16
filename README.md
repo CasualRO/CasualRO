@@ -32,8 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-03-14 18:24:04 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 602 | 2024-03-14 18:23:59  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-03-15 19:10:37 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 603 | 2024-03-15 19:05:54  |
 | [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 71 | 2024-03-14 18:23:28  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 19 | 2024-03-10 16:30:53  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 477 | 2024-03-10 16:30:52  |
