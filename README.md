@@ -32,7 +32,9 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 638 | 2024-04-09 01:21:14 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | RO 2023 客户端 DIFF 工具（定制版） | 6 | 2024-04-09 18:15:09 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 390 | 2024-04-09 16:05:02  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 638 | 2024-04-09 01:21:14  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-04-02 16:55:09  |
 | [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 75 | 2024-03-31 17:27:57  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 110 | 2024-03-31 12:18:58  |
@@ -40,8 +42,6 @@
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 490 | 2024-03-17 03:03:24  |
 | [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-02-23 05:06:18  |
 | [RagnarokSDE](https://github.com/Casual-Ragnarok/RagnarokSDE) | 随缘仙境修订版. Ragnarok SDE（Server Database Editor） | 16 | 2024-01-28 14:22:06  |
-| [client-self-trans](https://github.com/CasualRO/client-self-trans) | None | 2 | 2024-01-28 01:35:45  |
-| [openkore-docker](https://github.com/Casual-Ragnarok/openkore-docker) | docker 一键部署 openkore 机器人 | 48 | 2023-11-12 08:51:42  |
 <!-- END_SECTION:activity -->
 
 
