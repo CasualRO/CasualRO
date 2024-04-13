@@ -32,7 +32,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端 | 9 | 2024-04-11 05:26:09 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | None | 3 | 2024-04-12 05:32:32 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | RO 2023 客户端 DIFF 工具（定制版） | 6 | 2024-04-09 18:15:09  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 390 | 2024-04-09 16:05:02  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 638 | 2024-04-09 01:21:14  |
