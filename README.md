@@ -67,7 +67,7 @@
 
 | 微信 | 公众号免费教程 | QQ 交流群 198208745 |
 |:---:|:---:|:---:|
-| <img width="120" src="/imgs/CRO-CC.jpg"> | <img width="120" src="/imgs/WeChat-tutorial.jpg"> | <img width="120" src="/imgs/QQ-Group.jpg"> | 
+| <img width="120" src="./imgs/CRO-CC.jpg"> | <img width="120" src="./imgs/WeChat-tutorial.jpg"> | <img width="120" src="./imgs/QQ-Group.jpg"> | 
 
 
 ### ❤️ Donate
