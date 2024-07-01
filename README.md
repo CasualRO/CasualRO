@@ -32,8 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-06-28 17:30:16 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 697 | 2024-06-28 17:30:08  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 699 | 2024-06-30 17:16:58 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-06-30 12:47:48  |
 | [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2024-06-27 17:05:51  |
 | [Pokemon-Roms](https://github.com/EXP-Games/Pokemon-Roms) | 口袋妖怪 模拟器 ROM 合集 | 1 | 2024-06-27 17:05:34  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 33 | 2024-06-18 23:53:10  |
