@@ -32,7 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 701 | 2024-07-02 14:59:55 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 111 | 2024-07-05 16:45:52 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 701 | 2024-07-02 14:59:55  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-06-30 12:47:48  |
 | [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2024-06-27 17:05:51  |
 | [Pokemon-Roms](https://github.com/EXP-Games/Pokemon-Roms) | 口袋妖怪 模拟器 ROM 合集 | 1 | 2024-06-27 17:05:34  |
@@ -41,7 +42,6 @@
 | [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端源码 | 5 | 2024-05-05 14:16:10  |
 | [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | RO 2023 客户端 DIFF 工具（定制版） | 6 | 2024-04-09 18:15:09  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 390 | 2024-04-09 16:05:02  |
-| [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 75 | 2024-03-31 17:27:57  |
 <!-- END_SECTION:activity -->
 
 
