@@ -32,9 +32,9 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 38 | 2024-08-11 16:44:14 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 542 | 2024-08-11 16:44:13  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-08-11 16:43:57  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 41 | 2024-08-12 17:18:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | Hexo 商城 | 555 | 2024-08-12 17:18:39  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-08-12 17:03:15  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 734 | 2024-08-11 16:28:22  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 390 | 2024-08-08 16:33:44  |
 | [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-08-06 17:06:35  |
@@ -50,16 +50,16 @@
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-雪花之地-伊斯加尔特](https://store.ragnarok.buzz/game/ro/npc/1113-ep19.1-land-of-snow-flowers/readme/) | 2024-08-11 16:35:26 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-飞空艇破坏行动](https://store.ragnarok.buzz/game/ro/npc/1117-ep19.1-airship-destruction-operations/readme/) | 2024-08-12 16:48:39 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈-强化](https://store.ragnarok.buzz/game/ro/npc/1116-ep18-varmundt-biosphere-plus/readme/) | 2024-08-12 16:21:47  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈](https://store.ragnarok.buzz/game/ro/npc/1115-ep18-varmundt-biosphere/readme/) | 2024-08-12 15:55:38  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP16.1-死都宴会厅](https://store.ragnarok.buzz/game/ro/npc/1114-ep16.1-the-royal-banquet/readme/) | 2024-08-12 15:44:17  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-雪花之地-伊斯加尔特](https://store.ragnarok.buzz/game/ro/npc/1113-ep19.1-land-of-snow-flowers/readme/) | 2024-08-11 16:35:26  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-实验体废弃场鲁杜斯](https://store.ragnarok.buzz/game/ro/npc/1112-ep17.1-laboratory-waste-disposal-plant-rudus/readme/) | 2024-08-11 16:26:34  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-钟楼未知地下](https://store.ragnarok.buzz/game/ro/npc/1111-ep18-clock-tower-unknown-basement/readme/) | 2024-08-11 16:04:23  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-废弃研究所阿米希提娅](https://store.ragnarok.buzz/game/ro/npc/1110-ep17.1-abandoned-lab-amicitia/readme/) | 2024-05-07 17:12:56  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP16.1-死都宴会厅](https://store.ragnarok.buzz/game/ro/npc/1109-ep16.1-the-royal-banquet/readme/) | 2024-05-06 18:09:16  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境副本」EP18.1-吉芬夜间斗技场](https://store.ragnarok.buzz/game/ro/npc/1108-ep18.1-geffen-night-arena/readme/) | 2024-05-06 16:45:35  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境副本」EP18.1-星座之塔](https://store.ragnarok.buzz/game/ro/npc/1107-ep18.1-constellation-of-tower/readme/) | 2024-05-06 16:30:26  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 特色资源」Pokemon 世界： 一球抓宠 + 进化系统](https://store.ragnarok.buzz/game/ro/res/ro-pokemon/) | 2024-03-16 17:34:25  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 图档」特色动态翅膀](https://store.ragnarok.buzz/game/ro/res/ro-dynamic-wings/) | 2024-03-10 14:30:42  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 服务」承接 GRF 解密](https://store.ragnarok.buzz/game/ro/svc/decrypt-grf/) | 2024-02-18 17:02:33  |
 <!-- END_SECTION:article -->
 
 
