@@ -32,7 +32,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 提供翻译、查询等自助功能 | 51 | 2024-10-28 17:32:25 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 提供翻译、查询等自助功能 | 53 | 2024-10-29 17:19:04 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2024-10-17 00:11:56  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 927 | 2024-09-26 15:21:24  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 44 | 2024-09-22 01:35:55  |
