@@ -32,8 +32,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-02-13 14:45:56 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 148 | 2025-02-12 05:18:12  |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 149 | 2025-02-22 07:28:40 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-02-13 14:45:56  |
 | [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 77 | 2025-02-12 05:15:27  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 572 | 2025-02-12 05:00:19  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 49 | 2025-02-11 10:00:05  |
