@@ -32,8 +32,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | 随缘仙境 - NPC 脚本清单 | 55 | 2025-02-23 17:20:57 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 588 | 2025-02-23 17:20:56  |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 590 | 2025-02-24 15:37:41 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 149 | 2025-02-22 07:28:40  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-02-13 14:45:56  |
 | [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 77 | 2025-02-12 05:15:27  |
@@ -42,6 +41,7 @@
 | [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2025-02-09 06:15:29  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境 RO 传说 - 单机服务端（支持联机） | 390 | 2024-08-08 16:33:44  |
 | [GRFEditor](https://github.com/Casual-Ragnarok/GRFEditor) | 随缘仙境修订版. An editor for the Grf/Gpf/Thor file formats from Ragnarok Online. | 4 | 2024-08-06 17:06:35  |
+| [Pokemon-Roms](https://github.com/EXP-Games/Pokemon-Roms) | 口袋妖怪 模拟器 ROM 合集 | 1 | 2024-06-27 17:05:34  |
 <!-- END_SECTION:activity -->
 
 
