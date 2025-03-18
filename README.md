@@ -32,9 +32,9 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-03-16 16:52:39 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 941 | 2025-03-17 16:43:21 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-03-16 16:52:39  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 603 | 2025-03-16 16:45:48  |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 940 | 2025-03-16 14:13:38  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 123 | 2025-03-16 06:36:53  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 150 | 2025-03-03 16:42:09  |
 | [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2025-03-02 02:50:50  |
