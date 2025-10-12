@@ -32,10 +32,10 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-client-integration](https://github.com/CasualRO/ro-client-integration) | RO 历年客户端整合 | 1 | 2025-10-01 13:22:38 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端源码 | 15 | 2025-09-30 00:57:42  |
+| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端源码 | 15 | 2025-10-12 01:11:46 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-10-11 08:02:09  |
+| [ro-client-integration](https://github.com/CasualRO/ro-client-integration) | RO 历年客户端整合 | 1 | 2025-10-01 13:22:38  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 1140 | 2025-09-29 01:05:20  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-09-27 05:48:21  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 126 | 2025-05-21 17:09:12  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 610 | 2025-05-11 17:54:47  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 153 | 2025-05-04 10:12:05  |
