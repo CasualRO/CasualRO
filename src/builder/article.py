@@ -6,6 +6,7 @@
 
 import requests
 import re
+import html
 from src.config import *
 from src.utils import _git
 
@@ -18,7 +19,7 @@ SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
 RO_STORE_OWNER = "Casual-Ragnarok"
 RO_STORE_REPO = 'ro-store'
-RO_STORE_URL = 'https://store.ragnarok.buzz/atom.xml'
+RO_STORE_URL = 'https://store.casualro.top/atom.xml'
 
 
 def build(github_token, proxy='') :
@@ -103,6 +104,7 @@ class ArticleRefresher :
                     rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
                     title = rst[0].strip() if len(rst) > 0 else ''
                     title = re.sub(r'.*</a>', '', title)
+                    title = html.unescape(title)  # 解码 HTML 实体
                     time = self._query_filetime(url)
                     article = Article(title, url, time)
                     articles.append(article)

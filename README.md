@@ -32,16 +32,16 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2025-11-06 01:25:34 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端源码 | 15 | 2025-10-29 01:12:42  |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 1153 | 2025-10-26 16:19:01  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-10-26 16:18:04  |
-| [Pokemon-Roms](https://github.com/EXP-Games/Pokemon-Roms) | 口袋妖怪 模拟器 ROM 合集 | 1 | 2025-10-25 16:38:21  |
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 127 | 2025-10-12 10:19:33  |
-| [ro-client-integration](https://github.com/CasualRO/ro-client-integration) | RO 历年客户端整合 | 1 | 2025-10-01 13:22:38  |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 610 | 2025-05-11 17:54:47  |
-| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 153 | 2025-05-04 10:12:05  |
-| [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 78 | 2025-04-11 00:36:04  |
+| [lyy289065406](https://github.com/lyy289065406/lyy289065406) | profile | 1937 | 2025-11-06 17:33:43 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [steam-discount](https://github.com/EXP-Tools/steam-discount) | steam 特惠游戏榜单（自动刷新） | 22899 | 2025-11-06 12:51:26  |
+| [threat-broadcast](https://github.com/EXP-Tools/threat-broadcast) | 威胁情报播报 | 12412 | 2025-11-06 03:50:00  |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 1549 | 2025-11-04 18:32:59  |
+| [music-library](https://github.com/EXP-Res/music-library) | 个人音乐库（支持跨平台播放器） | 152 | 2025-11-04 14:52:48  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 个人博客（Hexo版） | 2 | 2025-11-02 10:51:51  |
+| [exp-blog-hexo](https://github.com/EXP-Docs/exp-blog-hexo) | Hexo 博客（管理端） | 2579 | 2025-11-02 10:38:57  |
+| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01  |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 31 | 2025-08-27 00:31:00  |
+| [ebooks-library](https://github.com/EXP-Res/ebooks-library) | 个人电子书库 | 47 | 2025-05-12 15:34:59  |
 <!-- END_SECTION:activity -->
 
 
@@ -50,7 +50,16 @@
 <!-- BGN_SECTION:article -->
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
-
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」反外挂验证器](https://store.casualro.top/game/ro/npc/1118-antibot/readme/) | 2025-05-11 14:12:07 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 Ragexe（WARP 定制版）](https://store.casualro.top/game/ro/feature/2023-client-ragexe/) | 2025-03-11 15:06:51  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-飞空艇破坏行动](https://store.casualro.top/game/ro/npc/1117-ep19.1-airship-destruction-operations/readme/) | 2024-08-12 16:48:39  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈-强化](https://store.casualro.top/game/ro/npc/1116-ep18-varmundt-biosphere-plus/readme/) | 2024-08-12 16:21:47  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈](https://store.casualro.top/game/ro/npc/1115-ep18-varmundt-biosphere/readme/) | 2024-08-12 15:55:38  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-克雷斯特汉姆挑战模式](https://store.casualro.top/game/ro/npc/1114-ep17.1-old-glast-heim-challenge-mode/readme/) | 2024-08-12 15:44:17  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-雪花之地-伊斯加尔特](https://store.casualro.top/game/ro/npc/1113-ep19.1-land-of-snow-flowers/readme/) | 2024-08-11 16:35:26  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-实验体废弃场鲁杜斯](https://store.casualro.top/game/ro/npc/1112-ep17.1-laboratory-waste-disposal-plant-rudus/readme/) | 2024-08-11 16:26:34  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-钟楼未知地下](https://store.casualro.top/game/ro/npc/1111-ep18-clock-tower-unknown-basement/readme/) | 2024-08-11 16:04:23  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-废弃研究所阿米希提娅](https://store.casualro.top/game/ro/npc/1110-ep17.1-abandoned-lab-amicitia/readme/) | 2024-05-07 17:12:56  |
 <!-- END_SECTION:article -->
 
 
