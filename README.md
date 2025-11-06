@@ -32,16 +32,16 @@
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [lyy289065406](https://github.com/lyy289065406/lyy289065406) | profile | 1937 | 2025-11-06 17:33:43 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [steam-discount](https://github.com/EXP-Tools/steam-discount) | steam 特惠游戏榜单（自动刷新） | 22899 | 2025-11-06 12:51:26  |
-| [threat-broadcast](https://github.com/EXP-Tools/threat-broadcast) | 威胁情报播报 | 12412 | 2025-11-06 03:50:00  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 1549 | 2025-11-04 18:32:59  |
-| [music-library](https://github.com/EXP-Res/music-library) | 个人音乐库（支持跨平台播放器） | 152 | 2025-11-04 14:52:48  |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 个人博客（Hexo版） | 2 | 2025-11-02 10:51:51  |
-| [exp-blog-hexo](https://github.com/EXP-Docs/exp-blog-hexo) | Hexo 博客（管理端） | 2579 | 2025-11-02 10:38:57  |
-| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 31 | 2025-08-27 00:31:00  |
-| [ebooks-library](https://github.com/EXP-Res/ebooks-library) | 个人电子书库 | 47 | 2025-05-12 15:34:59  |
+| [OldGame-Roms](https://github.com/EXP-Games/OldGame-Roms) | 童年老游戏 ROMs | 2 | 2025-11-06 14:37:33 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [Pokemon-Roms](https://github.com/EXP-Games/Pokemon-Roms) | 口袋妖怪 模拟器 ROM 合集 | 1 | 2025-11-06 14:35:41  |
+| [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 随缘仙境 - 服务端源码 | 15 | 2025-10-29 01:12:42  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 1153 | 2025-10-26 16:19:01  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2025-10-26 16:18:04  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境 RO 传说 - 历年资料收录 | 127 | 2025-10-12 10:19:33  |
+| [ro-client-integration](https://github.com/CasualRO/ro-client-integration) | RO 历年客户端整合 | 1 | 2025-10-01 13:22:38  |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 历年游戏素材储备 | 610 | 2025-05-11 17:54:47  |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | RO 自助系统： 道具魔物翻译、查询 | 153 | 2025-05-04 10:12:05  |
+| [ro-grf-res](https://github.com/Casual-Ragnarok/ro-grf-res) | RO GRF 图档资源（图档反推 DB 和配置） | 78 | 2025-04-11 00:36:04  |
 <!-- END_SECTION:activity -->
 
 
