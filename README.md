@@ -1,12 +1,15 @@
 ## 👋  Here is [Casual-Ragnarok](https://casualro.top)
 
 <!--BGN_SECTION:github-readme-stats-->
+
+<!--
 <a href="https://casualro.top" target="_blank">
   <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/top-langs/?username=CasualRO&theme=great-gatsby" alt="CasualRO's Top Langs" />
 </a>
 <a href="https://casualro.top" target="_blank">
   <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/?username=CasualRO&count_private=true&show_icons=true&theme=nightowl" alt="CasualRO's github stats" />
 </a>
+-->
 
 <a href="https://casualro.top" target="_blank">
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=casual-ro-website&theme=nord" />
