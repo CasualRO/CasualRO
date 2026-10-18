@@ -50,6 +50,15 @@
 | RO 商城 | 最新上架 | 上架时间 |
 |:------|:------|:------|
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」反外挂验证器](https://store.casualro.top/game/ro/npc/1118-antibot/readme/) | 2025-05-11 14:12:07 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「RO 新特性」2023 Ragexe（WARP 定制版）](https://store.casualro.top/game/ro/feature/2023-client-ragexe/) | 2025-03-11 15:06:51  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-飞空艇破坏行动](https://store.casualro.top/game/ro/npc/1117-ep19.1-airship-destruction-operations/readme/) | 2024-08-12 16:48:39  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈-强化](https://store.casualro.top/game/ro/npc/1116-ep18-varmundt-biosphere-plus/readme/) | 2024-08-12 16:21:47  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-霸肋门德生物圈](https://store.casualro.top/game/ro/npc/1115-ep18-varmundt-biosphere/readme/) | 2024-08-12 15:55:38  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-克雷斯特汉姆挑战模式](https://store.casualro.top/game/ro/npc/1114-ep17.1-old-glast-heim-challenge-mode/readme/) | 2024-08-12 15:44:17  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP19.1-雪花之地-伊斯加尔特](https://store.casualro.top/game/ro/npc/1113-ep19.1-land-of-snow-flowers/readme/) | 2024-08-11 16:35:26  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-实验体废弃场鲁杜斯](https://store.casualro.top/game/ro/npc/1112-ep17.1-laboratory-waste-disposal-plant-rudus/readme/) | 2024-08-11 16:26:34  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP18-钟楼未知地下](https://store.casualro.top/game/ro/npc/1111-ep18-clock-tower-unknown-basement/readme/) | 2024-08-11 16:04:23  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」EP17.1-废弃研究所阿米希提娅](https://store.casualro.top/game/ro/npc/1110-ep17.1-abandoned-lab-amicitia/readme/) | 2024-05-07 17:12:56  |
 <!-- END_SECTION:article -->
 
 
