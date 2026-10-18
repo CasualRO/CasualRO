@@ -20,7 +20,7 @@
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=ro-docs&theme=nord" />
 </a>
 
-<a href="https://npc.casualro.top" target="_blank">
+<a href="https://casual-ragnarok.github.io/ragnarok-clients/" target="_blank">
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=ragnarok-clients&theme=nord" />
 </a>
 
