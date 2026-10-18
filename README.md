@@ -1,26 +1,26 @@
-## 👋  Here is [Casual-Ragnarok](https://ragnarok.buzz)
+## 👋  Here is [Casual-Ragnarok](https://casualro.top)
 
 <!--BGN_SECTION:github-readme-stats-->
-<a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin//top-langs/?username=CasualRO&theme=great-gatsby" alt="CasualRO's Top Langs" />
+<a href="https://casualro.top" target="_blank">
+  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/top-langs/?username=CasualRO&theme=great-gatsby" alt="CasualRO's Top Langs" />
 </a>
-<a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=CasualRO&count_private=true&show_icons=true&theme=nightowl" alt="CasualRO's github stats" />
+<a href="https://casualro.top" target="_blank">
+  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/?username=CasualRO&count_private=true&show_icons=true&theme=nightowl" alt="CasualRO's github stats" />
 </a>
 
-<a href="https://store.ragnarok.buzz" target="_blank">
-  <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=ro-store&theme=nord" />
+<a href="https://store.casualro.top" target="_blank">
+  <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=casual-ro-website&theme=nord" />
 </a>
 
 <a href="https://github.com/Casual-Ragnarok/openkore-docker" target="_blank">
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=openkore-docker&theme=nord" />
 </a>
 
-<a href="https://npc.ragnarok.buzz" target="_blank">
+<a href="https://npc.casualro.top" target="_blank">
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=ro-npcs&theme=nord" />
 </a>
 
-<a href="https://docs.ragnarok.buzz" target="_blank">
+<a href="https://docs.casualro.top" target="_blank">
   <img height="114" align="center" src="https://expm02-github-readme-stats.hf.space/api/pin/?username=Casual-Ragnarok&repo=ro-docs&theme=nord" />
 </a>
 
