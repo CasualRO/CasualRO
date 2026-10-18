@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author : CasualRO
-# @Time   : 2023/09/28 22:17
+# @Author : EXP
+# @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
 # 在 Github 为项目仓库打的标签，主要用于统计不同领域的工作时间分配
@@ -18,11 +18,12 @@ BIT_LEARNING = 8
 
 class Repo :
 
-    def __init__(self, owner, name, url, desc, pushtime, commit_cnt) :
+    def __init__(self, owner, name, url, desc, visibility, pushtime, commit_cnt) :
         self.owner = owner  # 可能是用户归属的组织
         self.name = name
         self.url = url
         self.desc = desc
+        self.visibility = visibility
         self.pushtime = pushtime
         self.commit_cnt = commit_cnt
         self.topics = []
@@ -61,4 +62,3 @@ class Repo :
 
     def is_for_playing(self) :
         return (self.usefor & BIT_PLAYING) != 0 
-

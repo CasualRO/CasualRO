@@ -1,62 +1,69 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author : CasualRO
-# @Time   : 2023/09/28 21:56
+# @Author : EXP
+# @Time   : 2020/4/28 21:56
 # -----------------------------------------------
 
+import requests
 from color_log.clog import log
 from src.config import *
 from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 
 
-def query_repos(github_token, branch='master', iter=100, proxy=''):
+def query_repos(github_token, iter=100, proxy=''):
     repos = []
     client = _GraphqlClient(endpoint=settings.github['graphql'])
     has_next_page = True
     next_cursor = None
     while has_next_page:
         data = client.exec(
-            query=_to_graphql_repoinfo(branch, next_cursor, iter),
+            query=_to_graphql_repoinfo(next_cursor, iter),
             headers={ "Authorization": "Bearer {}".format(github_token) },
             proxy=proxy
         )
         # log.debug(data)
-        _repos = data["data"]["viewer"]["repositories"]["nodes"]
+        _repos = data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]
         for _repo in _repos :
-            if _repo["object"] is None :
-                continue  # 不存在的分支名
+            if _repo["isFork"] :
+                continue
+
+            default_branch = _repo["defaultBranchRef"]
+            if default_branch is None :
+                continue  # 空仓库没有默认分支
 
             repo = Repo(
                 _repo["owner"]["login"], 
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
+                _repo["visibility"],
                 _utc_to_local(_repo["pushedAt"]), 
-                _repo["object"]["history"]["totalCount"]
+                default_branch["target"]["history"]["totalCount"]
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
                 repo.add_topic(topic["topic"]["name"])
             repos.append(repo)
         
-        pageInfo = data["data"]["viewer"]["repositories"]["pageInfo"]
+        pageInfo = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
     return repos
 
 
 
-def _to_graphql_repoinfo(branch, next_cursor, iter):
+def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
+    repositoriesContributedTo(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT], includeUserRepositories: true, after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
       }
       nodes {
+        isFork
         owner {
           __typename
           ... on User {
@@ -69,6 +76,7 @@ query {
         name
         description
         url
+        visibility
         pushedAt
         repositoryTopics(first: 5) {
           nodes {
@@ -77,10 +85,12 @@ query {
             }
           }
         }
-        object(expression: "BRANCH") {
-          ... on Commit {
-            history(first: 1) {
-              totalCount
+        defaultBranchRef {
+          target {
+            ... on Commit {
+              history(first: 1) {
+                totalCount
+              }
             }
           }
         }
@@ -88,7 +98,7 @@ query {
     }
   }
 }
-""".replace("BRANCH", branch).replace("ITER", str(iter)).replace(
+""".replace("ITER", str(iter)).replace(
     "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
 )
 
@@ -96,40 +106,24 @@ query {
 
 
 def query_filetime(github_token, repo_owner, repo_name, filepath, proxy=''):
-    client = _GraphqlClient(endpoint=settings.github['graphql'])
-    data = client.exec(
-        query=_to_graphql_filetime(repo_owner, repo_name, filepath),
-        headers={ "Authorization": "Bearer {}".format(github_token) },
-        proxy=proxy
-    )
-    # log.debug(data)
-    fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
-    filetime = fileinfo[0]["commit"]["committedDate"]
-    return _utc_to_local(filetime)
-
-
-
-def _to_graphql_filetime(owner, repo, filepath) :
-  return """
-query {
-  repository(owner: "%s", name: "%s") {
-    object(expression: "master") {
-      ... on Commit {
-        blame(path: "%s") {
-          ranges {
-            commit {
-              committedDate
-            }
-          }
-        }
-      }
+    """通过 REST API 查询文件最后提交时间，比 GraphQL blame/commitHistory 更稳定"""
+    url = f"{settings.github['url'].replace('https://github.com', 'https://api.github.com')}/repos/{repo_owner}/{repo_name}/commits"
+    headers = {
+        "Authorization": "Bearer {}".format(github_token),
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "python"
     }
-  }
-}
-""" % (owner, repo, filepath)
+    proxies = { "http": proxy, "https": proxy } if proxy else {}
+    params = { "path": filepath, "page": 1, "per_page": 1 }
+    rsp = requests.get(url, headers=headers, params=params, proxies=proxies, timeout=30)
+    rsp.raise_for_status()
+    commits = rsp.json()
+    if not commits:
+        raise ValueError(f"No commits found for {filepath}")
+    filetime = commits[0]["commit"]["committer"]["date"]
+    return _utc_to_local(filetime)
 
 
 
 def _utc_to_local(utc) :
     return utc.replace('T', ' ').replace('Z', '')
-

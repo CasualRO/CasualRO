@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author : CasualRO
-# @Time   : 2023/09/28 22:17
+# @Author : EXP
+# @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
 import requests
@@ -17,17 +17,33 @@ MODE_SITEMAP = 'sitemap'
 TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
 SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
-RO_STORE_OWNER = "Casual-Ragnarok"
-RO_STORE_REPO = 'ro-store'
+EXP_BLOG_OWNER = "lyy289065406"
+EXP_BLOG_REPO = 'articles'
+EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
+
+RO_OWNER = "Casual-Ragnarok"
+RO_STORE = 'ro-store'
 RO_STORE_URL = 'https://store.casualro.top/atom.xml'
+
+RE0_WEB_OWNER = "re-zero-khis"
+RE0_WEB_REPO = 're0-web'
+RE0_WEB_URL = 'https://re0zero.top/mdbook/book/sitemap.xml'
 
 
 def build(github_token, proxy='') :
     rows = []
 
-    ar = ArticleRefresher(github_token, RO_STORE_OWNER, RO_STORE_REPO, RO_STORE_URL, proxy)
-    # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
-    rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
+    # ar = ArticleRefresher(github_token, EXP_BLOG_OWNER, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
+    # # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
+    # rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
+
+    ar = ArticleRefresher(github_token, RO_OWNER, RO_STORE, RO_STORE_URL, proxy)
+    ar.reflash()        # RSS 会自动排序，不需要缓存到本地
+    rows.extend(ar.get_tops(MODE_RSS, 1))
+
+    # ar = ArticleRefresher(github_token, RE0_WEB_OWNER, RE0_WEB_REPO, RE0_WEB_URL, proxy)
+    # ar.reflash()        # sitemap 无序，需要缓存到本地
+    # rows.extend(ar.get_tops(MODE_SITEMAP, 1))
 
     return """
 | RO 商城 | 最新上架 | 上架时间 |
@@ -103,7 +119,7 @@ class ArticleRefresher :
                 if rsp.status_code == 200 :
                     rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
                     title = rst[0].strip() if len(rst) > 0 else ''
-                    title = re.sub(r'.*</a>', '', title)
+                    title = re.sub(r'<[^>]+>', '', title)
                     title = html.unescape(title)  # 解码 HTML 实体
                     time = self._query_filetime(url)
                     article = Article(title, url, time)
@@ -141,7 +157,8 @@ class ArticleRefresher :
 
 
     def _to_filepath(self, file_url) :
-        return re.sub(r'.*?/markdown', 'gitbook/markdown', file_url.replace('.html', '.md'))
+        relative = re.sub(r'https?://[^/]+/mdbook/book/', '', file_url)
+        return 'mdbook/book/' + relative
 
 
     def _headers(self):

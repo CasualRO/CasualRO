@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author : CasualRO
-# @Time   : 2023/09/28 22:17
+# @Author : EXP
+# @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
 from src.config import *
@@ -11,7 +11,7 @@ TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
 
 def build(repos, top=3) :
     with open(TPL_PATH, 'r') as file :
-        tpl = file.read()
+        tpl = file.read().rstrip('\r\n')
 
     rows = []
     cnt = 0
@@ -22,6 +22,7 @@ def build(repos, top=3) :
         row = tpl % {
             'repo': repo.name, 
             'repo_url': repo.url, 
+            'visibility': '公开' if repo.visibility == 'PUBLIC' else '非公开',
             'desc': repo.desc, 
             'count': repo.commit_cnt, 
             'time': repo.pushtime, 
@@ -34,8 +35,8 @@ def build(repos, top=3) :
             break
 
     return """
-| repo | description | commit count | push time |
-|:------|:------|:------|:------|
+| repo | visibility | description | commit count | push time |
+|:------|:------|:------|:------|:------|
 %s
 """ % '\n'.join(rows)
 
