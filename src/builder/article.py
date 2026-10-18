@@ -39,7 +39,7 @@ def build(github_token, proxy='') :
 
     ar = ArticleRefresher(github_token, RO_OWNER, RO_STORE, RO_STORE_URL, proxy)
     ar.reflash()        # RSS 会自动排序，不需要缓存到本地
-    rows.extend(ar.get_tops(MODE_RSS, 1))
+    rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
 
     # ar = ArticleRefresher(github_token, RE0_WEB_OWNER, RE0_WEB_REPO, RE0_WEB_URL, proxy)
     # ar.reflash()        # sitemap 无序，需要缓存到本地
@@ -137,7 +137,7 @@ class ArticleRefresher :
                 titles = re.findall(r'<title>(.+?)</title>', rsp.text)
                 urls = re.findall(r'<id>(.+?)</id>', rsp.text)
                 times = re.findall(r'<published>(.+?)</published>', rsp.text)
-                for i in range(top) :
+                for i in range(min(top, len(titles) - 1, len(urls) - 1, len(times))) :
                     title = titles[i + 1]
                     url = urls[i + 1]
                     time = times[i].replace('T', ' ').replace('.000Z', '')
