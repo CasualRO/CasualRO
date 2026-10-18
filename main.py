@@ -57,7 +57,7 @@ def main(github_token, proxy):
     )))
     
     if not repos or len(repos) <= 0 :
-        log.warn("获取项目仓库数据失败")
+        raise RuntimeError("未获取到可用项目仓库，请检查 github.owner 和 Token 的仓库读取权限")
     else :
         log.info("获得 [%i] 个项目仓库的数据" % len(repos))
 

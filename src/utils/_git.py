@@ -5,6 +5,7 @@
 # -----------------------------------------------
 
 import requests
+import json
 from color_log.clog import log
 from src.config import *
 from src.bean.repo import *
@@ -12,6 +13,8 @@ from src.utils.graphql_client import _GraphqlClient
 
 
 def query_repos(github_token, iter=100, proxy=''):
+    if not github_token:
+        raise ValueError('缺少 GitHub Token，请配置 GRAPHQL_TOKEN 或 GTK')
     repos = []
     client = _GraphqlClient(endpoint=settings.github['graphql'])
     has_next_page = True
@@ -23,7 +26,15 @@ def query_repos(github_token, iter=100, proxy=''):
             proxy=proxy
         )
         # log.debug(data)
-        _repos = data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]
+        if data.get('errors'):
+            raise RuntimeError('GitHub GraphQL 查询失败: ' + '; '.join(
+                error.get('message', str(error)) for error in data['errors']
+            ))
+        owner = (data.get('data') or {}).get('repositoryOwner')
+        if owner is None:
+            raise RuntimeError('无法读取配置的 GitHub 账号: ' + settings.github['owner'])
+        connection = owner['repositories']
+        _repos = connection['nodes']
         for _repo in _repos :
             if _repo["isFork"] :
                 continue
@@ -46,7 +57,7 @@ def query_repos(github_token, iter=100, proxy=''):
                 repo.add_topic(topic["topic"]["name"])
             repos.append(repo)
         
-        pageInfo = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
+        pageInfo = connection["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
     return repos
@@ -56,8 +67,8 @@ def query_repos(github_token, iter=100, proxy=''):
 def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
-  viewer {
-    repositoriesContributedTo(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT], includeUserRepositories: true, after: NEXT) {
+  repositoryOwner(login: OWNER) {
+    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
@@ -98,7 +109,7 @@ query {
     }
   }
 }
-""".replace("ITER", str(iter)).replace(
+""".replace("OWNER", json.dumps(settings.github['owner'])).replace("ITER", str(iter)).replace(
     "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
 )
 

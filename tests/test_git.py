@@ -18,8 +18,8 @@ class FakeGraphqlClient:
         self.queries.append(query)
         return {
             "data": {
-                "viewer": {
-                    "repositoriesContributedTo": {
+                "repositoryOwner": {
+                    "repositories": {
                         "nodes": [{
                             "isFork": False,
                             "owner": {"login": "example-org"},
@@ -54,10 +54,39 @@ class QueryReposTest(unittest.TestCase):
         self.assertEqual(12, repos[0].commit_cnt)
         query = FakeGraphqlClient.queries[0]
         self.assertIn("defaultBranchRef", query)
-        self.assertIn("repositoriesContributedTo", query)
-        self.assertIn("contributionTypes: [COMMIT]", query)
+        self.assertIn('repositoryOwner(login: "CasualRO")', query)
+        self.assertIn("repositories(first:", query)
+        self.assertNotIn("viewer", query)
         self.assertIn("visibility", query)
         self.assertNotIn('object(expression:', query)
+
+    def test_missing_token(self):
+        with self.assertRaisesRegex(ValueError, '缺少 GitHub Token'):
+            _git.query_repos('')
+
+    @patch.object(_git, '_GraphqlClient')
+    def test_graphql_error(self, client):
+        client.return_value.exec.return_value = {'errors': [{'message': 'Access denied'}]}
+        with self.assertRaisesRegex(RuntimeError, 'Access denied'):
+            _git.query_repos('token')
+
+    @patch.object(_git, '_GraphqlClient')
+    def test_owner_not_accessible(self, client):
+        client.return_value.exec.return_value = {'data': {'repositoryOwner': None}}
+        with self.assertRaisesRegex(RuntimeError, 'CasualRO'):
+            _git.query_repos('token')
+
+    @patch.object(_git, '_GraphqlClient')
+    def test_pagination(self, client):
+        first = FakeGraphqlClient('endpoint').exec('', {}, '')
+        second = FakeGraphqlClient('endpoint').exec('', {}, '')
+        first['data']['repositoryOwner']['repositories']['pageInfo'] = {
+            'hasNextPage': True, 'endCursor': 'next-page'
+        }
+        client.return_value.exec.side_effect = [first, second]
+
+        self.assertEqual(2, len(_git.query_repos('token')))
+        self.assertIn('after: "next-page"', client.return_value.exec.call_args.kwargs['query'])
 
 
 if __name__ == "__main__":
