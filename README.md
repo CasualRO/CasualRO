@@ -34,13 +34,13 @@
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 49 | 2026-10-18 00:59:53 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | 非公开 | RO 2023-2025 客户端 DIFF 工具（定制版） | 11 | 2026-10-17 15:49:45  |
+| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 54 | 2026-10-18 18:16:52 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | 非公开 | RO 2023-2025 客户端 DIFF 工具（定制版） | 13 | 2026-10-18 14:44:06  |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 637 | 2026-10-18 10:56:37  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 公开 | 仙境 RO 传说 - 历年资料收录 | 137 | 2026-10-18 09:53:50  |
+| [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 公开 | 仙境 RO 传说 - 随缘仙境主站 | 21 | 2026-10-18 08:06:38  |
 | [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 非公开 | 随缘仙境 - 服务端源码 | 15 | 2026-10-17 04:50:05  |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 17 | 2026-10-08 15:45:00  |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 634 | 2026-09-28 05:08:47  |
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 公开 | 仙境 RO 传说 - 历年资料收录 | 136 | 2026-09-28 05:08:29  |
-| [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 公开 | 仙境 RO 传说 - 随缘仙境主站 | 19 | 2026-09-28 05:08:19  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 155 | 2026-09-28 03:53:26  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 非公开 | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2026-07-12 22:10:08  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 391 | 2026-07-05 14:09:03  |
