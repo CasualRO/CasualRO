@@ -34,8 +34,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 647 | 2026-10-21 02:44:31 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
-| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 21 | 2026-10-21 02:43:31  |
+| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 22 | 2026-10-22 01:26:15 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 647 | 2026-10-21 02:44:31  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 公开 | 仙境 RO 传说 - 历年资料收录 | 142 | 2026-10-21 02:43:22  |
 | [casual-ro-website](https://github.com/Casual-Ragnarok/casual-ro-website) | 公开 | 仙境 RO 传说 - 随缘仙境主站 | 25 | 2026-10-21 02:42:55  |
 | [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 54 | 2026-10-18 18:16:52  |
