@@ -34,7 +34,7 @@
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 157 | 2026-11-03 12:19:01 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 160 | 2026-11-05 05:04:01 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 22 | 2026-10-22 01:26:15  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 647 | 2026-10-21 02:44:31  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 公开 | 仙境 RO 传说 - 历年资料收录 | 142 | 2026-10-21 02:43:22  |
