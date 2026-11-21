@@ -34,7 +34,8 @@
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 392 | 2026-11-16 01:24:16 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 非公开 | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2026-11-20 16:33:28 ![news](https://github.com/CasualRO/CasualRO/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 392 | 2026-11-16 01:24:16  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 162 | 2026-11-05 11:10:17  |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 22 | 2026-10-22 01:26:15  |
 | [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | 非公开 | 仙境商城 | 647 | 2026-10-21 02:44:31  |
@@ -43,7 +44,6 @@
 | [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 54 | 2026-10-18 18:16:52  |
 | [WarpEdition](https://github.com/Casual-Ragnarok/WarpEdition) | 非公开 | RO 2023-2025 客户端 DIFF 工具（定制版） | 13 | 2026-10-18 14:44:06  |
 | [casual-ro-server](https://github.com/Casual-Ragnarok/casual-ro-server) | 非公开 | 随缘仙境 - 服务端源码 | 15 | 2026-10-17 04:50:05  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 非公开 | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2026-07-12 22:10:08  |
 <!-- END_SECTION:activity -->
 
 
